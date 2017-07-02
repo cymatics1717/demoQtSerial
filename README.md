@@ -1,0 +1,1 @@
+QtSerialPort demo. works for raspberry pi 3.
